@@ -1,0 +1,28 @@
+-----------------------------------------------------------
+git init		->	Crear repositorio local
+-----------------------------------------------------------
+git add .		->	Agregar todos los archivos
+					al Stage Area
+-----------------------------------------------------------
+git add nombre_archivo	->	Agregar solo el archivo:
+					nombre_archivo al
+					Stage Area
+-----------------------------------------------------------
+git commit -m "coment"	->	Hacer commit de los cambios
+-----------------------------------------------------------
+git status		->	Muestra el estado de los
+				archivos
+-----------------------------------------------------------
+git log			->	Muestra el historial de
+				commits
+-----------------------------------------------------------
+git branch nombre_rama	->	Crear rama del repositorio
+-----------------------------------------------------------
+git branch		->	Mostrar todas las ramas
+-----------------------------------------------------------
+git checkout nombre_rama	->	Cambiar de rama
+-----------------------------------------------------------
+git remote add origin url	->	Clona repositorio
+					remoto
+-----------------------------------------------------------
+
